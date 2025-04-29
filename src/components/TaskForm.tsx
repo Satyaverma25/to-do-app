@@ -81,7 +81,7 @@ const TaskForm: React.FC<TaskFormProps> = ({ addTask }) => {
             className={`w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400 transition-all duration-200 ${
               errors.title ? 'border-red-500' : 'border-gray-300'
             }`}
-            placeholder="Enter task title"
+            placeholder="Enter task titli"
           />
           {errors.title && <p className="text-red-500 text-xs mt-1">{errors.title}</p>}
         </div>
