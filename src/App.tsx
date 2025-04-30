@@ -40,7 +40,7 @@ function App() {
       <header className="w-full max-w-4xl text-center mb-8 mt-4">
         <div className="flex items-center justify-center mb-2">
           <CheckCircle className="text-blue-500 h-8 w-8 mr-2" />
-          <h1 className="text-3xl font-bold text-gray-800">TaskMaster</h1>
+          <h1 className="text-3xl font-bold text-gray-800">taskmaster</h1>
         </div>
         <p className="text-gray-600">A simple and elegant way to manage your tasks</p>
       </header>
